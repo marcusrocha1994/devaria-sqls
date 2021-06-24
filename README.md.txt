@@ -1,0 +1,1 @@
+# Repositorio referente aos scripts SQL do modulo de banco de dados da devaria
